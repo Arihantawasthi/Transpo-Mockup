@@ -11,7 +11,7 @@
 
 # Live Demo : 
 
-**https://github.io/Arihantawasthi/Transpo-Mockup/**
+**https://Arihantawasthi.github.io/Transpo-Mockup/**
 
 # Screenshot :
 
